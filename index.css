@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: purple;
+    font-style: italic;
+    font-weight: 700;
+}
+* {
+    background-color: rgb(226, 253, 253);
+    background-position: center;
+    
+    
+}
