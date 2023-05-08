@@ -20,10 +20,12 @@ one challenge was to outomate my photo so that it can fit any device including p
 HTML
 CSS
 
+
 ## CONTACT DETAILS
 Please reach me on;
 Whatsapp no.: +254 726 545 820
 Email : gilbert17ku@proton.com / gilbert17ku@gmail.com
+l
 
 ### Live Demo
 
