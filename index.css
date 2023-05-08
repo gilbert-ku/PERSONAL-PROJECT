@@ -15,7 +15,10 @@ h1 {
 * {
     background-color: rgb(167, 235, 135);
     background-position: center;
+
     
+
+
 }
 img{
     float: left;
@@ -25,7 +28,6 @@ img{
     position: relative;
     padding-right: 0px;
     padding-top: 0px;
-    
 
 }
 .head{
@@ -35,40 +37,6 @@ img{
     font-style: italic;
    /* border-bottom-style: dotted;*/
 
-}footer {
-    text-align: center;
-    font-weight: 900;
-    font-style: italic;
-    display: inline;
-    margin-bottom: 0%;
-    bottom: 0;
-    color: rgb(0, 0, 0);
-    
-     
 }
 
 
-a{
-    color: red;
-}
-
-a:visited {
-    color: purple;
-}
-
-a:hover {
-    color:grey;
-   
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 700;
-    font-style: italic;
-}
-a:active {
-    color: lightblue;
-}
-#contacts {
-    color: rgb(255, 60, 0);
-    font-weight: 500;
-    font-display: block;
-
-}
