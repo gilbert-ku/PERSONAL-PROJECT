@@ -39,9 +39,9 @@ img{
 
 }footer {
     text-align: center;
-    font-weight: 700;
+    font-weight: 900;
     font-style: italic;
-    display: block;
+    display: inline;
     margin-bottom: 0%;
 }
 
