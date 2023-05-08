@@ -5,7 +5,28 @@
 
 #### By Gilbert Kutoto
 
-#### This biography describe my life early life, education, work experience, my personal life, role model, hobbiesm fun fact about myself, being a christian I have added my favourite bible verse and lastly my contacts.
+#### Simple discription
+This biography describe my life early life, education, work experience, my personal life, role model, hobbiesm fun fact about myself, being a christian I have added my favourite bible verse and lastly my contacts.
+
+## Setup/installation instructions
+First I had to install VScode in PC
+set up html and css
+add a photo to my project
+i had to setup the necessary links.
+## Know bugs
+one challenge was to outomate my photo so that it can fit any device including phone.
+
+## Technologies
+HTML
+CSS
+
+## CONTACT DETAILS
+Please reach me on;
+Whatsapp no.: +254 726 545 820
+Email : gilbert17ku@proton.com / gilbert17ku@gmail.com
+
+### Live Demo
+
 
   
   https://github.com/gilbert-ku/PERSONAL-PROJECT/edit/master/readme.md
