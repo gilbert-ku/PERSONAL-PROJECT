@@ -1,48 +1,36 @@
 ![WhatsApp Image 2023-05-08 at 11 11 53](https://user-images.githubusercontent.com/125896467/236772490-d53f6f99-1e53-40fa-9aca-24781e8c9fdd.jpeg)
+# BIOGRAOHY
 
- 
- #h1 BIOGRAPHY
- image
- 
- Paragraph one
- 
-  # h3 Gilbert biography
-  
-  # h4 - Early life and education
-  
-  Paragraph two
-  
-  # h3 -Personal life
-  
-  paragraph three
-  
-  #h3 - Role model
-  
-  # div - ordered list
-  
-  #h3 - hobbies
-  
-  # unordered list
-  
-  # h3 - fun fact about Gilbert
-  
-  paragraph four
-  
-  # h3 Favourite bible verse
-  
-  # h4 - Ephisians  3;20
-  
-  Paragraph five
-  
-  # h3 - Contacts
-  
-  paragraph 6
-  
-  Div / paragraph six / unordered list
+#### This is my biography as per 2023.
+
+#### By Gilbert Kutoto
+
+#### This biography describe my life early life, education, work experience, my personal life, role model, hobbiesm fun fact about myself, being a christian I have added my favourite bible verse and lastly my contacts.
+
   
   https://github.com/gilbert-ku/PERSONAL-PROJECT/edit/master/readme.md
  
-  
+  MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
   
   
  
