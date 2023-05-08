@@ -41,6 +41,10 @@ img{
     font-style: italic;
     display: inline;
     margin-bottom: 0%;
+    bottom: 0;
+    color: rgb(0, 0, 0);
+    
+     
 }
 
 
