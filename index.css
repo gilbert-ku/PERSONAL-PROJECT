@@ -49,10 +49,23 @@ img{
 a{
     color: red;
 }
+
+a:visited {
+    color: purple;
+}
+
 a:hover {
     color:grey;
    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 700;
     font-style: italic;
+}
+a:active {
+    color: lightblue;
+}
+#contacts {
+    color: rgb(255, 60, 0);
+    font-weight: 500;
+    font-display: block;
 }
