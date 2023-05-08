@@ -15,6 +15,7 @@ h1 {
 * {
     background-color: rgb(167, 235, 135);
     background-position: center;
+    
 
     
 
@@ -68,4 +69,5 @@ a:active {
     color: rgb(255, 60, 0);
     font-weight: 500;
     font-display: block;
+
 }
