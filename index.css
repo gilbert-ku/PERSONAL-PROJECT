@@ -15,14 +15,7 @@ h1 {
 * {
     background-color: rgb(167, 235, 135);
     background-position: center;
-<<<<<<< HEAD
     
-=======
-
-    
-
-
->>>>>>> 7ef17312c213432ed8bcd4bdd5e60afc29908d43
 }
 img{
     float: left;
@@ -32,10 +25,7 @@ img{
     position: relative;
     padding-right: 0px;
     padding-top: 0px;
-<<<<<<< HEAD
     
-=======
->>>>>>> 7ef17312c213432ed8bcd4bdd5e60afc29908d43
 
 }
 .head{
@@ -45,7 +35,6 @@ img{
     font-style: italic;
    /* border-bottom-style: dotted;*/
 
-<<<<<<< HEAD
 }footer {
     text-align: center;
     font-weight: 900;
@@ -53,7 +42,7 @@ img{
     display: inline;
     margin-bottom: 0%;
     bottom: 0;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     
      
 }
@@ -83,8 +72,3 @@ a:active {
     font-display: block;
 
 }
-=======
-}
-
-
->>>>>>> 7ef17312c213432ed8bcd4bdd5e60afc29908d43

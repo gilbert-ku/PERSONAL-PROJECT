@@ -1,5 +1,5 @@
 ![WhatsApp Image 2023-05-08 at 11 11 53](https://user-images.githubusercontent.com/125896467/236772490-d53f6f99-1e53-40fa-9aca-24781e8c9fdd.jpeg)
-# BIOGRAOHY
+# BIOGRAPHY
 
 #### This is my biography as per 2023.
 
